@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8A340A-ABCB-43A6-B1A1-B8C85C3BC94B}|KeyMorph.Application\\KeyMorph.Application.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.application\\keymorph.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FC8A340A-ABCB-43A6-B1A1-B8C85C3BC94B}|KeyMorph.Application\\KeyMorph.Application.csproj|solutionrelative:keymorph.application\\keymorph.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DAD37D-80B5-41B0-B078-95EBD3AE5FE6}|KeyMorph.UI\\KeyMorph.UI.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.ui\\keymorph.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04DAD37D-80B5-41B0-B078-95EBD3AE5FE6}|KeyMorph.UI\\KeyMorph.UI.csproj|solutionrelative:keymorph.ui\\keymorph.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5885BAE2-DCAA-4BAD-A08D-CAAD09F77F8A}|KeyMorph.Tests\\KeyMorph.Tests.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5885BAE2-DCAA-4BAD-A08D-CAAD09F77F8A}|KeyMorph.Tests\\KeyMorph.Tests.csproj|solutionrelative:keymorph.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86AB674C-789E-44AA-B7DB-5A3C0A394556}|KeyMorph.Shared\\KeyMorph.Shared.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86AB674C-789E-44AA-B7DB-5A3C0A394556}|KeyMorph.Shared\\KeyMorph.Shared.csproj|solutionrelative:keymorph.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63A95FB5-A260-4419-BDBF-BC1C3DCB8C9C}|Class Library (.NET)\\Class Library (.NET).csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\class library (.net)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63A95FB5-A260-4419-BDBF-BC1C3DCB8C9C}|Class Library (.NET)\\Class Library (.NET).csproj|solutionrelative:class library (.net)\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC8A340A-ABCB-43A6-B1A1-B8C85C3BC94B}|KeyMorph.Application\\KeyMorph.Application.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC8A340A-ABCB-43A6-B1A1-B8C85C3BC94B}|KeyMorph.Application\\KeyMorph.Application.csproj|solutionrelative:keymorph.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{497D38CD-6959-4481-AB05-CAE1976CB7C5}|KeyMorph.Core\\KeyMorph.Core.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{497D38CD-6959-4481-AB05-CAE1976CB7C5}|KeyMorph.Core\\KeyMorph.Core.csproj|solutionrelative:keymorph.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DAD37D-80B5-41B0-B078-95EBD3AE5FE6}|KeyMorph.UI\\KeyMorph.UI.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{04DAD37D-80B5-41B0-B078-95EBD3AE5FE6}|KeyMorph.UI\\KeyMorph.UI.csproj|solutionrelative:keymorph.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04DAD37D-80B5-41B0-B078-95EBD3AE5FE6}|KeyMorph.UI\\KeyMorph.UI.csproj|d:\\desktop\\projects\\keyboardmaster\\keymorph\\keymorph.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04DAD37D-80B5-41B0-B078-95EBD3AE5FE6}|KeyMorph.UI\\KeyMorph.UI.csproj|solutionrelative:keymorph.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KeyMorph.Application",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Application\\KeyMorph.Application.csproj",
+              "RelativeDocumentMoniker": "KeyMorph.Application\\KeyMorph.Application.csproj",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Application\\KeyMorph.Application.csproj",
+              "RelativeToolTip": "KeyMorph.Application\\KeyMorph.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-14T18:32:03.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KeyMorph.UI",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.UI\\KeyMorph.UI.csproj",
+              "RelativeDocumentMoniker": "KeyMorph.UI\\KeyMorph.UI.csproj",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.UI\\KeyMorph.UI.csproj",
+              "RelativeToolTip": "KeyMorph.UI\\KeyMorph.UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-14T18:31:21.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "KeyMorph.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "KeyMorph.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:30:28.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "KeyMorph.Shared\\Class1.cs",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Shared\\Class1.cs",
+              "RelativeToolTip": "KeyMorph.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:29:24.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\Class Library (.NET)\\Class1.cs",
+              "RelativeDocumentMoniker": "Class Library (.NET)\\Class1.cs",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\Class Library (.NET)\\Class1.cs",
+              "RelativeToolTip": "Class Library (.NET)\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:29:07.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "KeyMorph.Application\\Class1.cs",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Application\\Class1.cs",
+              "RelativeToolTip": "KeyMorph.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:28:45.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Core\\Class1.cs",
+              "RelativeDocumentMoniker": "KeyMorph.Core\\Class1.cs",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.Core\\Class1.cs",
+              "RelativeToolTip": "KeyMorph.Core\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:28:01.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "KeyMorph.UI\\MainWindow.xaml",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.UI\\MainWindow.xaml",
+              "RelativeToolTip": "KeyMorph.UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-14T18:26:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "KeyMorph.UI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Desktop\\projects\\KeyboardMaster\\KeyMorph\\KeyMorph.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "KeyMorph.UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T18:26:07.757Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

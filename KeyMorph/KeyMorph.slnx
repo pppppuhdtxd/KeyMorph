@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="KeyMorph.Application/KeyMorph.Application.csproj" />
+  <Project Path="KeyMorph.Core/KeyMorph.Core.csproj" />
+  <Project Path="KeyMorph.Infrastructure/KeyMorph.Infrastructure.csproj" />
+  <Project Path="KeyMorph.Shared/KeyMorph.Shared.csproj" />
+  <Project Path="KeyMorph.Tests/KeyMorph.Tests.csproj" />
+  <Project Path="KeyMorph.UI/KeyMorph.UI.csproj" />
+</Solution>
