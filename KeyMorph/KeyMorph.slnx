@@ -2,5 +2,7 @@
   <Project Path="src/KeyMorph.Application/KeyMorph.Application.csproj" />
   <Project Path="src/KeyMorph.Core/KeyMorph.Core.csproj" />
   <Project Path="src/KeyMorph.Infrastructure/KeyMorph.Infrastructure.csproj" />
+  <Project Path="src/KeyMorph.Shared/KeyMorph.Shared.csproj" />
   <Project Path="src/KeyMorph.UI/KeyMorph.UI.csproj" />
+  <Project Path="tests/KeyMorph.Tests/KeyMorph.Tests.csproj" />
 </Solution>
